@@ -2,10 +2,10 @@
 ```table-of-contents
 ```
 ### Table of Contents:
-| Chapters: |
-| --------- |
-| Linux     |
-| Windows   |
+| Chapters:                                                                           |
+| ----------------------------------------------------------------------------------- |
+| [Linux](https://github.com/Sod-ers/Configs/blob/main/Launch%20Options.md#linux)     |
+| [Windows](https://github.com/Sod-ers/Configs/blob/main/Launch%20Options.md#windows) |
 ### Linux:
 | Program:      | Options:                                                                                                        |
 | ------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -13,6 +13,7 @@
 | HL2DM         | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
 | Open Fortress | -steam -novid -nostartupsound -high -con_enable 1 -windowed -noborder +fps_max 240 +cl_showfps 1 +exec autoexec |
 | TF2           | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
+| PolyMC        | -l "instance name"                                                                                              |
 ### Windows:
 | Program:      | Options:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
