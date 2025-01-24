@@ -1,0 +1,21 @@
+
+```table-of-contents
+```
+### Table of Contents:
+| Chapters: |
+| --------- |
+| Linux     |
+| Windows   |
+### Linux:
+| Program:      | Options:                                                                                                        |
+| ------------- | --------------------------------------------------------------------------------------------------------------- |
+| GMod          | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
+| HL2DM         | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
+| Open Fortress | -steam -novid -nostartupsound -high -con_enable 1 -windowed -noborder +fps_max 240 +cl_showfps 1 +exec autoexec |
+| TF2           | -novid -fullscreen -high -con_enable 1 +fps_max 240 +cl_showfps 1 -freq 240 +exec autoexec                      |
+### Windows:
+| Program:      | Options:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Black Mesa    | -steam -novid -nostartupsound -high -con_enable 1 -windowed -noborder +fps_max 240 +cl_showfps 1 -freq 240 -force-d3d11-no-singlethreaded -threadpool_affinity 1 -threads 8 -exThreads=8 -cpuCount=8 -heapsize "16777216" -mem_max_heapsize 30000 -maxMem=30000 -malloc=system -processheap -noquicktime -nohltv -nosteamcontroller -nojoy -particles 1 -noforcemaccel -noforcemspd -nomousegrab +mat_disable_fancy_blending +exec autoexec                                                      |
+| GMod          | -steam -novid -nostartupsound -high -con_enable 1 -windowed -noborder +fps_max 240 +cl_showfps 1 -freq 240 -dx9 -nod3d9ex -r_emulate_gl -force-d3d11-no-singlethreaded -threadpool_affinity 1 -gmod_mcore_test 1 -threads 8 -exThreads=8 -cpuCount=8 -heapsize "16777216" -mem_max_heapsize 30000 -maxMem=30000 -malloc=system -processheap -noquicktime -nohltv -nosteamcontroller -nojoy -particles 1 -noforcemaccel -noforcemspd -nomousegrab +mat_disable_fancy_blending +exec autoexec      |
+| Open Fortress | -steam -novid -nostartupsound -high -con_enable 1 -windowed -noborder +fps_max 240 +cl_showfps 1 -freq 240 -dx9 -nod3d9ex -force-d3d11-no-singlethreaded -threadpool_affinity 1 -threads 8 -exThreads=8 -cpuCount=8 -heapsize "16777216" -mem_max_heapsize 30000 -maxMem=30000 -malloc=system -processheap -noquicktime -cl_forcepreload 1 -nohltv -nosteamcontroller -nojoy -precachefontchars -particles 1 -noforcemaccel -noforcemspd -nomousegrab +mat_disable_fancy_blending +exec autoexec |
