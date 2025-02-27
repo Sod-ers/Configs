@@ -1,0 +1,10 @@
+
+[Unit]
+Description=no-sleep-2 service
+After=network.target
+
+[Service]
+ExecStart=/opt/Scripts/no-sleep-2.sh
+
+[Install]
+WantedBy=multi-user.target

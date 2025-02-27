@@ -1,0 +1,1 @@
+add `99-streamdeck.rules` to `/etc/udev/rules.d/`.

@@ -1,0 +1,10 @@
+
+[Unit]
+Description=flaresolverr
+After=network.target
+
+[Service]
+ExecStart=/opt/Scripts/flaresolverr.sh
+
+[Install]
+WantedBy=multi-user.target
