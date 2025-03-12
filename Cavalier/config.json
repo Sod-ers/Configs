@@ -1,0 +1,49 @@
+{
+  "WindowWidth": 900,
+  "WindowHeight": 1080,
+  "WindowMaximized": true,
+  "AreaMargin": 0,
+  "AreaOffsetX": 0,
+  "AreaOffsetY": 0,
+  "Borderless": true,
+  "SharpCorners": false,
+  "ShowControls": true,
+  "AutohideHeader": true,
+  "Framerate": 60,
+  "BarPairs": 18,
+  "Autosens": true,
+  "Sensitivity": 10,
+  "Stereo": true,
+  "Monstercat": true,
+  "NoiseReduction": 0.88,
+  "ReverseOrder": false,
+  "Direction": 1,
+  "ItemsOffset": 0.07,
+  "ItemsRoundness": 0.54,
+  "Filling": true,
+  "LinesThickness": 5,
+  "Mode": 3,
+  "Mirror": 0,
+  "ReverseMirror": false,
+  "InnerRadius": 0.8,
+  "Rotation": 0.01,
+  "ColorProfiles": [
+    {
+      "Name": "Default",
+      "FgColors": [
+        "#ffffb86b"
+      ],
+      "BgColors": [
+        "#ff282a36"
+      ],
+      "Theme": 1
+    }
+  ],
+  "ActiveProfile": 0,
+  "BgImageIndex": -1,
+  "BgImageScale": 1,
+  "BgImageAlpha": 1,
+  "FgImageIndex": -1,
+  "FgImageScale": 1,
+  "FgImageAlpha": 1
+}

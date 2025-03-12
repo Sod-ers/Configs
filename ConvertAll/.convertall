@@ -1,0 +1,42 @@
+# Options for the ConvertAll unit conversion program
+#
+# All options are set from within the program,
+# editing here is not recommended
+#
+ColorTheme               custom
+WindowColor              282a36
+WindowTextColor          ffffff
+BaseColor                282a36
+TextColor                ffffff
+HighlightColor           bd93f9
+HighlightedTextColor     000000
+ButtonColor              44475a
+ButtonTextColor          ffffff
+Text-DisabledColor       808080
+ButtonText-DisabledColor 808080
+GuiFont                  DejaVu Sans,12,-1,5,75,0,0,0,0,0,Bold
+#
+DecimalPlaces            8
+Notation                 general
+ShowOpButtons            yes
+ShowUnitButtons          yes
+RecentUnits              8
+LoadLastUnit             no
+ShowStartupTip           no
+RemenberDlgPos           yes
+#
+MainDlgXSize             1920
+MainDlgYSize             982
+MainDlgXPos              0
+MainDlgYPos              1137
+MainDlgTopMargin         32
+MainDlgOtherMargin       0
+#
+RecentUnit1              hour
+RecentUnit2              min
+RecentUnit3              GB
+RecentUnit4              MiB
+RecentUnit5               
+RecentUnit6               
+RecentUnit7               
+RecentUnit8               

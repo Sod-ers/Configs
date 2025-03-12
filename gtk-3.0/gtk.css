@@ -1,0 +1,5 @@
+.xfce4-panel {	font-size: 12px;	font: SF-Pro-Display; font-weight: 900;}
+.scrollbar.vertical slider,
+  scrollbar.vertical slider {
+     min-width: 16px;
+ }

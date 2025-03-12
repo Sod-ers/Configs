@@ -1,0 +1,48 @@
+[General]
+Black and White System Tray Icon=false
+Confirm Action=false
+Lock Screen Before Hibernate=true
+Minimize To System Tray Icon=true
+Selected Action=shutdown
+Selected Trigger=time-from-now
+
+[KDE Action Restrictions]
+action/help_about_kde=false
+action/help_contents=false
+action/help_report_bug=false
+action/help_whats_this=false
+
+[KShutdown Action extras]
+Command=
+
+[KShutdown Action lock]
+Custom Command=
+
+[KShutdown Action test]
+Text=
+
+[KShutdown Trigger process-monitor]
+Recent Command=
+
+[KShutdown Trigger time-from-now]
+Date Time=2000,1,1,0,3,0
+
+[Password Protection]
+Hash=
+action/file_quit=false
+action/settings=false
+kshutdown/action/cancel=false
+kshutdown/action/extras=false
+kshutdown/action/hibernate=false
+kshutdown/action/lock=false
+kshutdown/action/logout=false
+kshutdown/action/reboot=false
+kshutdown/action/shutdown=false
+kshutdown/action/suspend=false
+kshutdown/action/test=false
+
+[Preferences]
+Current Tab Index=0
+
+[Progress Bar]
+Enabled=true
