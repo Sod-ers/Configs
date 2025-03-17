@@ -1,1 +1,1 @@
-[My foobar2000 Configurations](https://drive.google.com/drive/folders/1n4Eag9hu1wwvdgxLzX2sVRkIFSXgFMUC)
+[My foobar2000 configurations](https://drive.google.com/drive/folders/1n4Eag9hu1wwvdgxLzX2sVRkIFSXgFMUC)
