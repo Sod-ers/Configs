@@ -1,0 +1,1 @@
+feh -g 1920 --slideshow-delay 3 --no-menus --fontpath /home/soders/.local/share/fonts/San-Francisco-Pro-Fonts/ --font "SF-Pro/24" --menu-font "SF-Pro/24" --image-bg black --on-last-slide resume --randomize --scale-down --auto-zoom

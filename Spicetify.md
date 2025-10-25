@@ -1,1 +1,1 @@
-`config sidebar_config 1`
+`spicetify config sidebar_config 0`
