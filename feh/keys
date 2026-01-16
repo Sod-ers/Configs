@@ -12,6 +12,7 @@ toggle_pause space
 
 # redefine next image for pause to take effect
 next_img Right
+prev_img Left
 
 # unbind L and S
 save_image
