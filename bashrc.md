@@ -9,6 +9,8 @@ export PATH=$PATH:~/bin
 export PATH=$PATH:~/scripts
 export PATH=/home/soders/Scripts:$PATH
 export PATH=$PATH:/home/soders/Scripts
+export QT_STYLE_OVERRIDE=kvantum
+export GTK_THEME=Dracula-slim:dark
 clear
 fastfetch
 PROMPT_COMMAND='PS1_CMD1=$(ip route get 1.1.1.1 | awk -F"src " '"'"'NR == 1{ split($2, a," ");print a[1]}'"'"')'
