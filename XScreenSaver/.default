@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-settings 6.08 for soders on Thu Dec 12 06:30:17 2024.
+# Written by xscreensaver-settings 6.08 for soders on Thu May  7 12:07:39 2026.
 # https://www.jwz.org/xscreensaver/
 
 timeout:	0:59:00
@@ -29,11 +29,11 @@ chooseRandomImages: True
 imageDirectory:	~/Pictures/.xscreensaver/1080mhz/
 
 mode:		one
-selected:	163
+selected:	234
 
 textMode:	date
 textLiteral:	XScreenSaver
-textFile:	
+textFile:
 textProgram:	fortune
 textURL:	https://feeds.feedburner.com/ubuntu-news
 dialogTheme:	aquablack
@@ -121,7 +121,8 @@ programs:								      \
 				loop --root				    \n\
 				penetrate --root			    \n\
 				petri --root				    \n\
-				phosphor --root				    \n\
+				phosphor --root --scale 1 --ticks 7 --fg      \
+				  #ffb86c				    \n\
   GL: 				pulsar --root				    \n\
 				ripples --root				    \n\
 				shadebobs --root			    \n\
@@ -276,7 +277,7 @@ programs:								      \
   GL: 				peepers --root				    \n\
   GL: 				razzledazzle --root			    \n\
 				vfeedback --root			    \n\
-  GL: 				deepstars --root			    \n\
+  GL: 				deepstars --root --speed 0.75 --smear 0.1   \n\
   GL: 				gravitywell --root			    \n\
   GL: 				beats --root				    \n\
   GL: 				covid19 --root				    \n\
@@ -300,4 +301,3 @@ programs:								      \
 
 pointerHysteresis:  10
 authWarningSlack:   20
-
